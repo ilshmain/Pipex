@@ -1,7 +1,6 @@
-# yandex_algorithm
-## Yandex.Algorithm home works
+## Pipex school 21
 
-	Данная инструкция выполнится на Mac Os и Linux.
+	# Данная инструкция выполнится на Mac Os и Linux.
 Pipex это проект , который воспроизводит поведение оболочки трубы |команды в C, используя функции pipe(), fork(), dup2()и execve().
 	Общая идея: мы читаем из file1, выполняем cmd1 с file1 на входе, отправляем вывод в cmd2, который будет писать в
 Outfile.
